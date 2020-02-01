@@ -30,19 +30,19 @@ speeds.
 - The program must have at least one music and one sound effect.
 
 ## SHOULD :
-	-The program should have randomly spawning enemies.
-	-Animations and movements in your program should not depend on the speed of your computer.
-	-Animations and movements in your program should be timed by sfClock elements.
-	-Your window should stick between 800x600 pixels and 1920x1080 pixels.
-	-Your window should have a limited frame rate such that it can be compute without lagging.
-	-The program should accept the “-h” option, then display usage of the program.
-	-Possible user interactions should be explicitly explained in a usage.
+- The program should have randomly spawning enemies.
+- Animations and movements in your program should not depend on the speed of your computer.
+- Animations and movements in your program should be timed by sfClock elements.
+- Your window should stick between 800x600 pixels and 1920x1080 pixels.
+- Your window should have a limited frame rate such that it can be compute without lagging.
+- The program should accept the “-h” option, then display usage of the program.
+- Possible user interactions should be explicitly explained in a usage.
 
 ## COULD :
-	-The program could have several different levels.
-	-The program could have a main menu.
-	-The program could have a pause menu.
-	-The program could store the highest score made.
-	-The program could have an infinite mode where you generate randomly the map till the player dies.
-	-The program could let the user customize its character.
-	-The program could have bonus / malus which gives / removes points or advantages to the player.
+- The program could have several different levels.
+- The program could have a main menu.
+- The program could have a pause menu.
+- The program could store the highest score made.
+- The program could have an infinite mode where you generate randomly the map till the player dies.
+- The program could let the user customize its character.
+- The program could have bonus / malus which gives / removes points or advantages to the player.
