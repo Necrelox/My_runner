@@ -1,5 +1,19 @@
-# my_runner
-_________REQUIREMENTS_________
+# My_Runner
+
+##heading_________Use My_Runner_________
+
+Welcome to SpookyRunner.
+you have to survive the longest by dodging monsters.
+
+	Use Q or KeyLeft for Move to Left
+	Use D or KeyRight for Move to Right
+	Use Space for Jump
+	Use Escape for Pause or Resume.
+
+Have a little fun !
+
+For Start Game : ./my_runner play
+##heading_________REQUIREMENTS_________
 
   **MUST :**
 The window must be closed using events.
