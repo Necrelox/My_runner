@@ -1,6 +1,6 @@
 # My_Runner
 
-##_________Use My_Runner_________
+_________Use My_Runner_________
 
 Welcome to SpookyRunner.
 you have to survive the longest by dodging monsters.
@@ -13,7 +13,7 @@ you have to survive the longest by dodging monsters.
 Have a little fun !
 
 For Start Game : ./my_runner play
-##_________REQUIREMENTS_________
+_________REQUIREMENTS_________
 
   **MUST :**
 The window must be closed using events.
