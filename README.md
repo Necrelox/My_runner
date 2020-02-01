@@ -17,17 +17,17 @@ For Start Game : ./my_runner play
 _________REQUIREMENTS_________
 
 ## MUST :
--The window must be closed using events.
--The program must manage the input from the keyboard.
--The program must contain animated sprites rendered thanks to sprite sheets.
--The program must contain moving (rotating, translating, or scaling) elements.
--The program background must include a parallax scrolling with at least 3 objects moving at different
+- The window must be closed using events.
+- The program must manage the input from the keyboard.
+- The program must contain animated sprites rendered thanks to sprite sheets.
+- The program must contain moving (rotating, translating, or scaling) elements.
+- The program background must include a parallax scrolling with at least 3 objects moving at different
 speeds.
--The program must take a file in argument which will contain the map of your current game.
--The program must display a score which is update regularly during the game.
--The program must have an end whether it’s a victory or a defeat.
--The program must handle basic game physics (jumping / falling / hitting a wall).
--The program must have at least one music and one sound effect.
+- The program must take a file in argument which will contain the map of your current game.
+- The program must display a score which is update regularly during the game.
+- The program must have an end whether it’s a victory or a defeat.
+- The program must handle basic game physics (jumping / falling / hitting a wall).
+- The program must have at least one music and one sound effect.
 
 ## SHOULD :
 	-The program should have randomly spawning enemies.
