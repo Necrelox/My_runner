@@ -1,7 +1,8 @@
 # My_Runner
 
 ![Capture d’écran_2020-02-01_10-38-25](https://user-images.githubusercontent.com/57537266/73590177-bac3a080-44df-11ea-91ca-0503b146eba9.png)
-_________Use My_Runner_________
+
+## Use My_Runner
 
 Welcome to SpookyRunner.
 you have to survive the longest by dodging monsters.
