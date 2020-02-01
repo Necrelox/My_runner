@@ -14,7 +14,8 @@ you have to survive the longest by dodging monsters.
 Have a little fun !
 
 For Start Game : ./my_runner play
-_________REQUIREMENTS_________
+
+# REQUIREMENTS
 
 ## MUST :
 - The window must be closed using events.
