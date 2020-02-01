@@ -15,7 +15,7 @@ Have a little fun !
 For Start Game : ./my_runner play
 _________REQUIREMENTS_________
 
-  **MUST :**
+## MUST :
 	-The window must be closed using events.
 	-The program must manage the input from the keyboard.
 	-The program must contain animated sprites rendered thanks to sprite sheets.
@@ -28,7 +28,7 @@ _________REQUIREMENTS_________
 	-The program must handle basic game physics (jumping / falling / hitting a wall).
 	-The program must have at least one music and one sound effect.
 
-  **SHOULD :**
+## SHOULD :
 	-The program should have randomly spawning enemies.
 	-Animations and movements in your program should not depend on the speed of your computer.
 	-Animations and movements in your program should be timed by sfClock elements.
@@ -37,7 +37,7 @@ _________REQUIREMENTS_________
 	-The program should accept the “-h” option, then display usage of the program.
 	-Possible user interactions should be explicitly explained in a usage.
 
-  **COULD :**
+## COULD :
 	-The program could have several different levels.
 	-The program could have a main menu.
 	-The program could have a pause menu.
