@@ -1,50 +1,49 @@
-# My_Runner
+# FR
+
+Bonjour et bienvenue sur My_Runner dont le nom est SpookyRunner, qui est un vieux projet que j'ai réalisé au cours de ma tout première année à Epitech.
+Le code est plutôt mauvais, mais ce projet a été fait avec le cœur et j'en suis toujours fière.
+
+SpookyRunner est un jeu où vous devez survivre le plus longtemps possible en esquivant les 2 monstres qui arrivent.
+
+## Installation du projet
+Tout d'abord, vous devez posséder la librairie graphique CSFML, `sudo apt-get install libcsfml-dev libcsfml-doc` (libcsfml-doc non necessaire)
+
+Ensuite, il suffit de faire un simple `make re`
+
+## Lancement du projet
+
+`./my_runner play`
+
+## Touches
+
+	Utilisez Q ou flêche de gauche pour vous déplacer à gauche.
+	Utilisez D ou flêche de droite pour vous déplacer à droite.
+	Utilisez Espace pour sauter.
+	Utilisez Echap pour mettre Pause ou Continuer le jeux.
+
+
+## ENG
+
+Hello and welcome on My_Runner whose name is SpookyRunner, which is an old project I made during my very first year at Epitech.
+The code is pretty bad, but this project was made with heart and I'm still proud of it.
+
+SpookyRunner is a game where you have to survive as long as possible by dodging the 2 monsters that come.
+
+## Installation of the project
+First of all, you must have the CSFML graphic library, `sudo apt-get install libcsfml-dev libcsfml-doc` (libcsfml-doc not required)
+
+Then, it is enough to make a simple `make re`
+
+## Launching the project
+`./my_runner play`
+
+## Key
+
+	Utilisez Q ou flêche de gauche pour vous déplacer à gauche.
+	Utilisez D ou flêche de droite pour vous déplacer à droite.
+	Utilisez Espace pour sauter.
+	Utilisez Echap pour mettre Pause ou Continuer le jeux.
+
+# SpookyRunner
 
 ![Capture d’écran_2020-02-01_10-38-25](https://user-images.githubusercontent.com/57537266/73590177-bac3a080-44df-11ea-91ca-0503b146eba9.png)
-
-## Use My_Runner
-
-Welcome to SpookyRunner.
-you have to survive the longest by dodging monsters.
-	
-	Use Q or KeyLeft for Move to Left
-	Use D or KeyRight for Move to Right
-	Use Space for Jump
-	Use Escape for Pause or Resume.
-
-Have a little fun !
-
-For Start Game : ./my_runner play (**need make re**)
-
-# REQUIREMENTS
-
-## MUST :
-- The window must be closed using events.
-- The program must manage the input from the keyboard.
-- The program must contain animated sprites rendered thanks to sprite sheets.
-- The program must contain moving (rotating, translating, or scaling) elements.
-- The program background must include a parallax scrolling with at least 3 objects moving at different
-speeds.
-- The program must take a file in argument which will contain the map of your current game.
-- The program must display a score which is update regularly during the game.
-- The program must have an end whether it’s a victory or a defeat.
-- The program must handle basic game physics (jumping / falling / hitting a wall).
-- The program must have at least one music and one sound effect.
-
-## SHOULD :
-- The program should have randomly spawning enemies.
-- Animations and movements in your program should not depend on the speed of your computer.
-- Animations and movements in your program should be timed by sfClock elements.
-- Your window should stick between 800x600 pixels and 1920x1080 pixels.
-- Your window should have a limited frame rate such that it can be compute without lagging.
-- The program should accept the “-h” option, then display usage of the program.
-- Possible user interactions should be explicitly explained in a usage.
-
-## COULD :
-- The program could have several different levels.
-- The program could have a main menu.
-- The program could have a pause menu.
-- The program could store the highest score made.
-- The program could have an infinite mode where you generate randomly the map till the player dies.
-- The program could let the user customize its character.
-- The program could have bonus / malus which gives / removes points or advantages to the player.
