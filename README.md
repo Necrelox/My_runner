@@ -50,4 +50,4 @@ Then, it is enough to make a simple `make re`
 
 # SpookyRunner
 
-![Capture d’écran_2020-02-01_10-38-25](https://user-images.githubusercontent.com/57537266/73590177-bac3a080-44df-11ea-91ca-0503b146eba9.png)
+![2022-02-07 11-24-46 (1)](https://user-images.githubusercontent.com/57537266/152770766-0bf31a5f-3254-4fff-808f-3434de017796.gif)
