@@ -24,7 +24,7 @@ Ensuite, il suffit de faire un simple `make re`
 	Utilisez Echap pour mettre Pause ou Continuer le jeux.
 
 
-## ENG
+# ENG
 
 Hello and welcome on My_Runner whose name is SpookyRunner, which is an old project I made during my very first year at Epitech.
 The code is pretty bad, but this project was made with heart and I'm still proud of it.
