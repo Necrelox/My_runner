@@ -45,8 +45,8 @@ Then, it is enough to make a simple `make re`
 
 	Use Q or left arrow to move left.
 	Use D or right arrow to move right.
-	Use Space for jump.
-	Use Escape for pause.
+	Use Space to jump.
+	Use Escape to pause or continue the game.
 
 # SpookyRunner
 
