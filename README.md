@@ -43,10 +43,10 @@ Then, it is enough to make a simple `make re`
 
 ## Key
 
-	Utilisez Q ou flêche de gauche pour vous déplacer à gauche.
-	Utilisez D ou flêche de droite pour vous déplacer à droite.
-	Utilisez Espace pour sauter.
-	Utilisez Echap pour mettre Pause ou Continuer le jeux.
+	Use Q or left arrow to move left.
+	Use D or right arrow to move right.
+	Use Espace for jump.
+	Use Echap for pause.
 
 # SpookyRunner
 
