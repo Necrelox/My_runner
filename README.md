@@ -6,7 +6,9 @@ Le code est plutôt mauvais, mais ce projet a été fait avec le cœur et j'en s
 SpookyRunner est un jeu où vous devez survivre le plus longtemps possible en esquivant les 2 monstres qui arrivent.
 
 ## Installation du projet
-Tout d'abord, vous devez posséder la librairie graphique CSFML, `sudo apt-get install libcsfml-dev libcsfml-doc` (libcsfml-doc non necessaire)
+Tout d'abord, vous devez posséder la librairie graphique CSFML,
+
+`sudo apt-get install libcsfml-dev libcsfml-doc` (libcsfml-doc non necessaire)
 
 Ensuite, il suffit de faire un simple `make re`
 
@@ -30,7 +32,9 @@ The code is pretty bad, but this project was made with heart and I'm still proud
 SpookyRunner is a game where you have to survive as long as possible by dodging the 2 monsters that come.
 
 ## Installation of the project
-First of all, you must have the CSFML graphic library, `sudo apt-get install libcsfml-dev libcsfml-doc` (libcsfml-doc not required)
+First of all, you must have the CSFML graphic library,
+
+`sudo apt-get install libcsfml-dev libcsfml-doc` (libcsfml-doc not required)
 
 Then, it is enough to make a simple `make re`
 
